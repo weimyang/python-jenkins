@@ -16,3 +16,4 @@ def login(username, password):
 def logout():
     print("not coverage")
     print("not coverage neither")
+    print("github change and restart job")
